@@ -1,0 +1,16 @@
+.flex-box{
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px;
+    padding: auto;
+    background-color: green;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    border: 2px solid black;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.flex-items{
+    display: flex;
+}
